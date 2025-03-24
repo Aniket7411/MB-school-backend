@@ -1,0 +1,323 @@
+(node:2096) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:2096) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+Server started on port 5000
+MongoDB connected...
+WINNERS :::  [
+  {
+    _id: new ObjectId('6733090ff4501f42d67b5844'),
+    name: 'Chhotu harji ram ',
+    email: '6350387942',
+    password: 'ec6852e4943384d59a4c61615ef4bc19:cd1bc5cbeb08e5c79075bc0ef0dd77f1',
+    town: 'bapini',
+    address: 'bapini',
+    role: 'user',
+    createdBy: new ObjectId('6731bb00f4501f42d67b57c3'),
+    hasWonLottery: true,
+    tokenID: 6,
+    registeredDate: 2024-11-12T07:51:43.791Z,
+    __v: 0,
+    scheduledLotteryTime: 2024-11-15T17:00:00.000Z,
+    lastWinDate: 2025-02-15T11:29:54.179Z
+  },
+  {
+    _id: new ObjectId('67330a4bf4501f42d67b586e'),
+    name: 'somraj ( gopal sharma )',
+    email: '7690028354',
+    password: '492a9c65e43d39e74744ae12992c8000:69fa253c28b7e9d60e902aeb850dd927',
+    town: 'bapini',
+    address: 'bapini',
+    role: 'user',
+    createdBy: new ObjectId('6731bb00f4501f42d67b57c3'),
+    hasWonLottery: true,
+    tokenID: 14,
+    registeredDate: 2024-11-12T07:56:59.986Z,
+    __v: 0,
+    scheduledLotteryTime: 2024-11-15T17:00:00.000Z,
+    lastWinDate: 2025-01-15T11:30:03.028Z
+  },
+  {
+    _id: new ObjectId('673316b1f4501f42d67b593f'),
+    name: 'Priyanka ashok sharma ',
+    email: '8148669948',
+    password: '6849567a78d2a938c752a2f3690da6ce:dab9a20a26ad9c49e342c0d337f68ea0',
+    town: 'Bapini ',
+    address: 'Bapini ',
+    role: 'user',
+    createdBy: new ObjectId('6731bb00f4501f42d67b57c3'),
+    hasWonLottery: true,
+    tokenID: 52,
+    registeredDate: 2024-11-12T08:49:53.115Z,
+    __v: 0,
+    scheduledLotteryTime: 2024-11-15T17:00:00.000Z,
+    lastWinDate: 2025-03-11T17:40:00.999Z
+  },
+  {
+    _id: new ObjectId('6736d1aff4501f42d67b618d'),
+    name: 'raval jasraj palli rana',
+    email: '9680939154',
+    password: 'e794f9d15fdacc727c18792c28dedbf3:890fa4f5ba7a46ceefb6471a1175c52b',
+    town: 'palli',
+    address: 'palli',
+    role: 'user',
+    createdBy: new ObjectId('6731bb00f4501f42d67b57c3'),
+    hasWonLottery: true,
+    tokenID: 189,
+    registeredDate: 2024-11-15T04:44:31.827Z,
+    __v: 0,
+    scheduledLotteryTime: 2024-11-15T17:00:00.000Z,
+    lastWinDate: 2024-12-15T11:29:44.301Z
+  },
+  {
+    _id: new ObjectId('6736d3c4f4501f42d67b61c5'),
+    name: 'kishna ram deepa ram bapini',
+    email: '9549555099',
+    password: '510b9f6aee28a127a7f3c492ab18362e:436faf06383caa8147a45b216a416101',
+    town: 'bapini',
+    address: '',
+    role: 'user',
+    createdBy: new ObjectId('6731bb00f4501f42d67b57c3'),
+    hasWonLottery: true,
+    tokenID: 193,
+    registeredDate: 2024-11-15T04:53:24.549Z,
+    __v: 0,
+    scheduledLotteryTime: 2024-11-15T17:00:00.000Z,
+    lastWinDate: 2024-11-15T11:30:01.081Z
+  }
+]
+WINNERS :::  [
+  {
+    _id: new ObjectId('6733090ff4501f42d67b5844'),
+    name: 'Chhotu harji ram ',
+    email: '6350387942',
+    password: 'ec6852e4943384d59a4c61615ef4bc19:cd1bc5cbeb08e5c79075bc0ef0dd77f1',
+    town: 'bapini',
+    address: 'bapini',
+    role: 'user',
+    createdBy: new ObjectId('6731bb00f4501f42d67b57c3'),
+    hasWonLottery: true,
+    tokenID: 6,
+    registeredDate: 2024-11-12T07:51:43.791Z,
+    __v: 0,
+    scheduledLotteryTime: 2024-11-15T17:00:00.000Z,
+    lastWinDate: 2025-02-15T11:29:54.179Z
+  },
+  {
+    _id: new ObjectId('67330a4bf4501f42d67b586e'),
+    name: 'somraj ( gopal sharma )',
+    email: '7690028354',
+    password: '492a9c65e43d39e74744ae12992c8000:69fa253c28b7e9d60e902aeb850dd927',
+    town: 'bapini',
+    address: 'bapini',
+    role: 'user',
+    createdBy: new ObjectId('6731bb00f4501f42d67b57c3'),
+    hasWonLottery: true,
+    tokenID: 14,
+    registeredDate: 2024-11-12T07:56:59.986Z,
+    __v: 0,
+    scheduledLotteryTime: 2024-11-15T17:00:00.000Z,
+    lastWinDate: 2025-01-15T11:30:03.028Z
+  },
+  {
+    _id: new ObjectId('673316b1f4501f42d67b593f'),
+    name: 'Priyanka ashok sharma ',
+    email: '8148669948',
+    password: '6849567a78d2a938c752a2f3690da6ce:dab9a20a26ad9c49e342c0d337f68ea0',
+    town: 'Bapini ',
+    address: 'Bapini ',
+    role: 'user',
+    createdBy: new ObjectId('6731bb00f4501f42d67b57c3'),
+    hasWonLottery: true,
+    tokenID: 52,
+    registeredDate: 2024-11-12T08:49:53.115Z,
+    __v: 0,
+    scheduledLotteryTime: 2024-11-15T17:00:00.000Z,
+    lastWinDate: 2025-03-11T17:40:00.999Z
+  },
+  {
+    _id: new ObjectId('6736d1aff4501f42d67b618d'),
+    name: 'raval jasraj palli rana',
+    email: '9680939154',
+    password: 'e794f9d15fdacc727c18792c28dedbf3:890fa4f5ba7a46ceefb6471a1175c52b',
+    town: 'palli',
+    address: 'palli',
+    role: 'user',
+    createdBy: new ObjectId('6731bb00f4501f42d67b57c3'),
+    hasWonLottery: true,
+    tokenID: 189,
+    registeredDate: 2024-11-15T04:44:31.827Z,
+    __v: 0,
+    scheduledLotteryTime: 2024-11-15T17:00:00.000Z,
+    lastWinDate: 2024-12-15T11:29:44.301Z
+  },
+  {
+    _id: new ObjectId('6736d3c4f4501f42d67b61c5'),
+    name: 'kishna ram deepa ram bapini',
+    email: '9549555099',
+    password: '510b9f6aee28a127a7f3c492ab18362e:436faf06383caa8147a45b216a416101',
+    town: 'bapini',
+    address: '',
+    role: 'user',
+    createdBy: new ObjectId('6731bb00f4501f42d67b57c3'),
+    hasWonLottery: true,
+    tokenID: 193,
+    registeredDate: 2024-11-15T04:53:24.549Z,
+    __v: 0,
+    scheduledLotteryTime: 2024-11-15T17:00:00.000Z,
+    lastWinDate: 2024-11-15T11:30:01.081Z
+  }
+]
+WINNERS :::  [
+  {
+    _id: new ObjectId('6733090ff4501f42d67b5844'),
+    name: 'Chhotu harji ram ',
+    email: '6350387942',
+    password: 'ec6852e4943384d59a4c61615ef4bc19:cd1bc5cbeb08e5c79075bc0ef0dd77f1',
+    town: 'bapini',
+    address: 'bapini',
+    role: 'user',
+    createdBy: new ObjectId('6731bb00f4501f42d67b57c3'),
+    hasWonLottery: true,
+    tokenID: 6,
+    registeredDate: 2024-11-12T07:51:43.791Z,
+    __v: 0,
+    scheduledLotteryTime: 2024-11-15T17:00:00.000Z,
+    lastWinDate: 2025-02-15T11:29:54.179Z
+  },
+  {
+    _id: new ObjectId('67330a4bf4501f42d67b586e'),
+    name: 'somraj ( gopal sharma )',
+    email: '7690028354',
+    password: '492a9c65e43d39e74744ae12992c8000:69fa253c28b7e9d60e902aeb850dd927',
+    town: 'bapini',
+    address: 'bapini',
+    role: 'user',
+    createdBy: new ObjectId('6731bb00f4501f42d67b57c3'),
+    hasWonLottery: true,
+    tokenID: 14,
+    registeredDate: 2024-11-12T07:56:59.986Z,
+    __v: 0,
+    scheduledLotteryTime: 2024-11-15T17:00:00.000Z,
+    lastWinDate: 2025-01-15T11:30:03.028Z
+  },
+  {
+    _id: new ObjectId('673316b1f4501f42d67b593f'),
+    name: 'Priyanka ashok sharma ',
+    email: '8148669948',
+    password: '6849567a78d2a938c752a2f3690da6ce:dab9a20a26ad9c49e342c0d337f68ea0',
+    town: 'Bapini ',
+    address: 'Bapini ',
+    role: 'user',
+    createdBy: new ObjectId('6731bb00f4501f42d67b57c3'),
+    hasWonLottery: true,
+    tokenID: 52,
+    registeredDate: 2024-11-12T08:49:53.115Z,
+    __v: 0,
+    scheduledLotteryTime: 2024-11-15T17:00:00.000Z,
+    lastWinDate: 2025-03-11T17:40:00.999Z
+  },
+  {
+    _id: new ObjectId('6736d1aff4501f42d67b618d'),
+    name: 'raval jasraj palli rana',
+    email: '9680939154',
+    password: 'e794f9d15fdacc727c18792c28dedbf3:890fa4f5ba7a46ceefb6471a1175c52b',
+    town: 'palli',
+    address: 'palli',
+    role: 'user',
+    createdBy: new ObjectId('6731bb00f4501f42d67b57c3'),
+    hasWonLottery: true,
+    tokenID: 189,
+    registeredDate: 2024-11-15T04:44:31.827Z,
+    __v: 0,
+    scheduledLotteryTime: 2024-11-15T17:00:00.000Z,
+    lastWinDate: 2024-12-15T11:29:44.301Z
+  },
+  {
+    _id: new ObjectId('6736d3c4f4501f42d67b61c5'),
+    name: 'kishna ram deepa ram bapini',
+    email: '9549555099',
+    password: '510b9f6aee28a127a7f3c492ab18362e:436faf06383caa8147a45b216a416101',
+    town: 'bapini',
+    address: '',
+    role: 'user',
+    createdBy: new ObjectId('6731bb00f4501f42d67b57c3'),
+    hasWonLottery: true,
+    tokenID: 193,
+    registeredDate: 2024-11-15T04:53:24.549Z,
+    __v: 0,
+    scheduledLotteryTime: 2024-11-15T17:00:00.000Z,
+    lastWinDate: 2024-11-15T11:30:01.081Z
+  }
+]
+
+> vslotteryapi@1.0.0 start
+> node app.js
+
+(node:2941) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:2941) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+node:events:496
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1897:16)
+    at listenInCluster (node:net:1945:12)
+    at Server.listen (node:net:2037:7)
+    at Function.listen (/root/VC-Lottery-APIS/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/root/VC-Lottery-APIS/app.js:1265:5)
+    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+    at Module.load (node:internal/modules/cjs/loader:1206:32)
+    at Module._load (node:internal/modules/cjs/loader:1022:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1924:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+
+Node.js v20.12.2
+npm ERR! Missing script: "dev"
+npm ERR! 
+npm ERR! To see a list of scripts, run:
+npm ERR!   npm run
+
+npm ERR! A complete log of this run can be found in: /root/.npm/_logs/2025-03-15T16_00_53_414Z-debug-0.log
+
+> vslotteryapi@1.0.0 start
+> node app.js
+
+(node:3019) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:3019) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+node:events:496
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1897:16)
+    at listenInCluster (node:net:1945:12)
+    at Server.listen (node:net:2037:7)
+    at Function.listen (/root/VC-Lottery-APIS/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/root/VC-Lottery-APIS/app.js:1265:5)
+    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+    at Module.load (node:internal/modules/cjs/loader:1206:32)
+    at Module._load (node:internal/modules/cjs/loader:1022:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1924:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+
+Node.js v20.12.2
